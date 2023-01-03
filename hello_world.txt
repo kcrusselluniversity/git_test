@@ -2,6 +2,6 @@ Hello, world!
 
 This is Kurt
 
-Is this another change?
+This was changed in 'feature'
 
 This change was made in the feature branch
