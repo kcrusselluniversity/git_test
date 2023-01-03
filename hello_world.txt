@@ -3,5 +3,6 @@ Hello, world!
 This is Kurt
 
 This change was made in main
+This was changed in 'feature'
 
 This change was made in the feature branch
